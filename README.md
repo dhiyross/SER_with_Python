@@ -1,1 +1,1 @@
-# SER_with_Python
+# Speech Emotion Recognition (SER)
